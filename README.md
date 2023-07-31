@@ -34,7 +34,7 @@ Topics include:
 8. Functions
 
 
-## NumPy
+### NumPy
 
 - Notebook: [02-numpy.ipynb](notebooks/02-numpy.ipynb)
 - Video: https://youtu.be/wf5Ct5UOZFU (*Length:* 1:31:47)
