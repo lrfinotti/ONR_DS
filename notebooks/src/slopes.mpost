@@ -1,0 +1,58 @@
+verbatimtex
+%&latex
+  \documentclass{article}
+  \usepackage{amsmath}
+  \usepackage{amssymb}
+  \usepackage{esvect}
+  \begin{document}
+  etex;
+
+
+prologues := 3;
+% see: http://www.tex.ac.uk/cgi-bin/texfaq2html?label=mpprologues
+outputformat  := "svg";
+
+beginfig(1);
+  % labeloffset:=6pt;
+
+  pair D;
+  path l, m, ll, mm;
+  numeric u;
+
+  u:=0.3cm;
+  l = (-5u, -2.5u)--(10u, 5u);
+  m = (0u,0u)--(5u,0u)--(5u, 2.5u);
+
+  ll = (-5u, 5u)--(10u, -2.5u);
+  mm = (0u,2.5u)--(5u,2.5u)--(5u, 0u);
+
+  draw l withpen pencircle scaled 1bp;
+  draw m withpen pencircle scaled 0.7bp dashed evenly;
+  draw (0,0) withpen pencircle scaled 4bp;
+  draw (5u,2.5u) withpen pencircle scaled 4bp;
+
+  % label.ulft(btex $(0,0)$ etex, (0,0));
+  label.bot(btex $1$ etex, (2.5u, 0));
+  label.rt(btex $m$ etex, (5u, 1.25u));
+  label.top(btex \textbf{Positive slope $m$} etex, (3u, 6u));
+
+  undraw (-5u,9u)--(10u,9u);
+
+  D = (0u,-14u);
+
+  draw ll shifted D withpen pencircle scaled 1bp;
+  draw mm shifted D withpen pencircle scaled 0.7bp dashed evenly;
+  draw (0u,2.5u)+ D withpen pencircle scaled 4bp;
+  draw (5u,0)+ D withpen pencircle scaled 4bp;
+
+  % label.ulft(btex $(\mathrm{aver}(\mathbf{x}),\mathrm{aver}(\mathbf{y}))$ etex, D);
+  label.bot(btex $1$ etex, (2.5u, 4u)+D);
+  label.rt(btex $|m|$ etex, (5u, 1.25u)+D);
+
+  label.top(btex \textbf{Negative slope $m$} etex, (2.7u, 6u)+D);
+
+  undraw (-5u,-16u)--(10u,-16u);
+
+endfig;
+
+end;
