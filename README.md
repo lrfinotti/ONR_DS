@@ -58,6 +58,8 @@ Topics include:
 ### Data Frames with Pandas
 
 - Notebook: [03-data_frames.ipynb](notebooks/03-data_frames.ipynb)
+- Data Sets:
+  - [nba_salaries.csv](notebooks/nba_salaries.csv)
 - Video: https://youtu.be/AZpzCXxbn4Q (*Length:* 1:29:11)
 
 This notebook introduces the [pandas](https://pandas.pydata.org/) library for manipulation of data frames.
@@ -76,6 +78,10 @@ Topics include:
 ### Data Visualization
 
 - Notebook: [04-visualization.ipynb](notebooks/04-visualization.ipynb)
+- Data Sets:
+  - [actors.csv](notebooks/actors.csv)
+  - [top_movies_2017.csv](notebooks/top_movies_2017.csv)
+  - [usa_ca_2019.csv](notebooks/usa_ca_2019.csv)
 - Video: https://youtu.be/oBZlmyi_d54 (*Length:* 1:46:35)
 
 This notebook introduces the use of [MatPlotLib](https://matplotlib.org/) and pandas to visualize data.
@@ -129,6 +135,9 @@ Topics Include:
 ### A/B Testing
 
 - Notebook: [07-ab_testing.ipynb](notebooks/07-ab_testing.ipynb)
+- Data Sets:
+  - [baby.csv](notebooks/baby.csv)
+  - [bta.csv](notebooks/bta.csv)
 - Video: https://youtu.be/ibHyLOfdlVc (*Length:* 35:33)
 
 This notebook shows how to use Python to see if the values of a binary categorical attribute has an effect on another attribute.
@@ -144,6 +153,10 @@ Topics include:
 ### Inference
 
 - Notebook: [08-inference.ipynb](notebooks/08-inference.ipynb)
+- Data Sets:
+  - [united_summer2015.csv](notebooks/united_summer2015.csv)
+  - [baby.csv](notebooks/baby.csv)
+  - [hodgkins.csv](notebooks/hodgkins.csv)
 - Video: https://youtu.be/YYCAkQzJ4kQ (*Length:* 36:51)
 
 This notebooks shows how a sample can give good approximations of certain statistics and how we can estimate the variation of a statistic from the randomness of sample.
@@ -162,6 +175,8 @@ Topics include:
 ### Linear Correlation and Predictions
 
 - Notebook: [09-predictions.ipynb](notebooks/09-predictions.ipynb)
+- Data Sets:
+  - [baby.csv](notebooks/baby.csv)
 - Video: https://youtu.be/wNqBHMFkXgc  (*Length:* 1:11:07)
 
 Topics include:
@@ -179,6 +194,9 @@ Topics include:
 ### Classification with Nearest Neighbors
 
 - Notebook: [10-classification.ipynb](notebooks/10-classification.ipynb)
+- Data Sets:
+  - [banknote.csv](notebooks/banknote.csv)
+  - [breast-cancer.csv](notebooks/breast-cancer.csv)
 - Video: https://youtu.be/t8Q-XNdzfQY (*Length:* 40:31)
 
 This notebook shows how to implement and use the *k* Nearest Neighbors classification method.
