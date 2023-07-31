@@ -4,14 +4,20 @@ We provide a series of [Jupyter Notebooks](https://jupyter.org/) introducing [Py
 
 The full set of notebooks and necessary data sets can be found in the found in the file [notebooks.zip](notebooks.zip).
 
-A play list for videos for each notebook can be found here: [Python for Data Science](https://youtube.com/playlist?list=PL0hG_ZfAGizsv8VvBSwgu7zUVhko35cUE).  (**Note:** These videos are less than perfect, but expose the main topics of each notebook.  I intend to rerecord them with better quality in the future, if time allows.)
+
+### Videos
+
+I've made a few quick videos for each notebook.  A playlist with all the videos can be found here: [Python for Data Science](https://youtube.com/playlist?list=PL0hG_ZfAGizsv8VvBSwgu7zUVhko35cUE).  There are links for each individual video (together with the corresponding notebook) below.
+
+**Note:** Although I believe that the notebooks provide a good introduction to the topics, the accompanying videos are *less than perfect* (to say the least).  Hopefully they can still provide an adequate exposition of the main topics of each notebook.  (I intend to rerecord them with better quality in the future, if time allows.)
 
 
 ### Acknowledgment
 
-Many of the topics and examples in these notebooks were inspired by (or simply taken from) [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html), by A. Adhikari, J. DeNero, D. Wagner.
+Many of the topics and examples in these notebooks were inspired by (or simply taken from) the book [Computational and Inferential Thinking: The Foundations of Data Science](https://inferentialthinking.com/chapters/intro.html), by A. Adhikari, J. DeNero, D. Wagner.
 
 On the other hand, while this text uses its own module [datascience](http://www.data8.org/datascience/) for data frame manipulations, [pandas](https://pandas.pydata.org/) is used in the notebooks provided.
+
 
 ## Topics
 
