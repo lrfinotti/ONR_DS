@@ -17,7 +17,7 @@ On the other hand, while this text uses its own module [datascience](http://www.
 
 ### Introduction to Python and Jupyter Notebooks for Data Science
 
-- Notebook: [01-python.ipynb](notebooks/01-pyhthon.ipynb)
+- Notebook: [01-python.ipynb](notebooks/01-python.ipynb)
 - Video: https://youtu.be/ZqEXBWzI9jA (*Length:* 3:03:44.)
 
 This notebook provides an brief introduction to Jupyter Lab and basic Python aimed towards applications in Data Science.
@@ -57,7 +57,7 @@ Topics include:
 
 ### Data Frames with Pandas
 
-- Notebook: [03-pandas.ipynb](notebooks/03-pandas.ipynb)
+- Notebook: [03-data_frames.ipynb](notebooks/03-data_frames.ipynb)
 - Video: https://youtu.be/AZpzCXxbn4Q (*Length:* 1:29:11)
 
 This notebook introduces the [pandas](https://pandas.pydata.org/) library for manipulation of data frames.
@@ -110,7 +110,7 @@ Topics Include:
 
 ### Testing Hypotheses
 
-- Notebook: [06-hypotheses.ipynb](notebooks/06-hypotheses.ipynb)
+- Notebook: [06-hypothesis.ipynb](notebooks/06-hypothesis.ipynb)
 - Video: https://youtu.be/g8ZoaQASeec (*Length:* 46:09)
 
 This notebooks shows how to use Python tools to check if a hypothesis is consistent with a proposed model.
