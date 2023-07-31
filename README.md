@@ -21,7 +21,7 @@ On the other hand, while this text uses its own module [datascience](http://www.
 
 ## Topics
 
-### Introduction to Python and Jupyter Notebooks for Data Science
+### 1 - Introduction to Python and Jupyter Notebooks for Data Science
 
 - Notebook: [01-python.ipynb](notebooks/01-python.ipynb)
 - Video: https://youtu.be/ZqEXBWzI9jA (*Length:* 3:03:44.)
@@ -40,7 +40,7 @@ Topics include:
 8. Functions
 
 
-### NumPy
+### 2 - NumPy
 
 - Notebook: [02-numpy.ipynb](notebooks/02-numpy.ipynb)
 - Video: https://youtu.be/wf5Ct5UOZFU (*Length:* 1:31:47)
@@ -61,7 +61,7 @@ Topics include:
    4. Grade Computation
    5. Compound Interest
 
-### Data Frames with Pandas
+### 3 - Data Frames with Pandas
 
 - Notebook: [03-data_frames.ipynb](notebooks/03-data_frames.ipynb)
 - Data Sets:
@@ -81,7 +81,7 @@ Topics include:
 7. Pivot Tables
 
 
-### Data Visualization
+### 4 - Data Visualization
 
 - Notebook: [04-visualization.ipynb](notebooks/04-visualization.ipynb)
 - Data Sets:
@@ -101,7 +101,7 @@ Topics Include:
 5. Overlaying Plots
 
 
-### Randomness and Probabilities
+### 5 - Randomness and Probabilities
 
 - Notebook: [05-randomness.ipynb](notebooks/05-randomness.ipynb)
 - Video: https://youtu.be/7mdJp3in0mc (1:12:50)
@@ -120,7 +120,7 @@ Topics Include:
    3. Poker
 
 
-### Testing Hypotheses
+### 6 - Testing Hypotheses
 
 - Notebook: [06-hypothesis.ipynb](notebooks/06-hypothesis.ipynb)
 - Video: https://youtu.be/g8ZoaQASeec (*Length:* 46:09)
@@ -138,7 +138,7 @@ Topics Include:
 
 
 
-### A/B Testing
+### 7 - A/B Testing
 
 - Notebook: [07-ab_testing.ipynb](notebooks/07-ab_testing.ipynb)
 - Data Sets:
@@ -156,7 +156,7 @@ Topics include:
    2. Drug Trial (Chronic Back Pain)
 
 
-### Inference
+### 8 - Inference
 
 - Notebook: [08-inference.ipynb](notebooks/08-inference.ipynb)
 - Data Sets:
@@ -178,7 +178,7 @@ Topics include:
    2. Median Birth Weight
 
 
-### Linear Correlation and Predictions
+### 9 - Linear Correlation and Predictions
 
 - Notebook: [09-predictions.ipynb](notebooks/09-predictions.ipynb)
 - Data Sets:
@@ -197,7 +197,7 @@ Topics include:
 8. Example: Predicting Birth Weight
 
 
-### Classification with Nearest Neighbors
+### 10 - Classification with Nearest Neighbors
 
 - Notebook: [10-classification.ipynb](notebooks/10-classification.ipynb)
 - Data Sets:
