@@ -183,7 +183,11 @@ Topics include:
 - Notebook: [09-predictions.ipynb](notebooks/09-predictions.ipynb)
 - Data Sets:
   - [baby.csv](notebooks/baby.csv)
+- Image (used in the notebook):
+  - [slopes.png](notebooks/slopes.png)
 - Video: https://youtu.be/wNqBHMFkXgc  (*Length:* 1:11:07)
+
+This notebook introduces the concept of *linear correlation* and explores predictions using linear regression, or by minimizing the root squared mean error of a more general prediction function type.
 
 Topics include:
 
@@ -203,6 +207,8 @@ Topics include:
 - Data Sets:
   - [banknote.csv](notebooks/banknote.csv)
   - [breast-cancer.csv](notebooks/breast-cancer.csv)
+- Image (used in the notebook):
+  - [distances.png](notebook/distances.png)
 - Video: https://youtu.be/t8Q-XNdzfQY (*Length:* 40:31)
 
 This notebook shows how to implement and use the *k* Nearest Neighbors classification method.
