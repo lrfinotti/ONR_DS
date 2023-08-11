@@ -208,7 +208,7 @@ Topics include:
   - [banknote.csv](notebooks/banknote.csv)
   - [breast-cancer.csv](notebooks/breast-cancer.csv)
 - Image (used in the notebook):
-  - [distances.png](notebook/distances.png)
+  - [distance.png](notebook/distance.png)
 - Video: https://youtu.be/t8Q-XNdzfQY (*Length:* 40:31)
 
 This notebook shows how to implement and use the *k* Nearest Neighbors classification method.
