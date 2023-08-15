@@ -1,8 +1,8 @@
 # Data Analysis with Python
 
-We provide a series of [Jupyter Notebooks](https://jupyter.org/) introducing [Python](https://jupyter.org/) tools for [Data Science](https://en.wikipedia.org/wiki/Data_science).
+We provide a series of Jupyter Notebooks: [preview](https://jupyter.org/) introducing [Python](https://jupyter.org/) tools for [Data , [preview](https://jupyter.org/) introducing [Python](https://jupyter.org/) tools for [download Science](https://en.wikipedia.org/wiki/Data_science).
 
-The full set of notebooks and necessary data sets can be found in the found in the file [notebooks.zip](notebooks.zip).
+The full set of notebooks and necessary data sets can be found in the found in the file [notebooks.zip](raw/main/notebooks.zip).
 
 
 ### Videos
@@ -23,7 +23,9 @@ On the other hand, while this text uses its own module [datascience](http://www.
 
 ### 1 - Introduction to Python and Jupyter Notebooks for Data Science
 
-- Notebook: [01-python.ipynb](notebooks/01-python.ipynb)
+- Notebook: 01-python.ipynb:
+  - [preview](notebooks/01-python.ipynb)
+  - [download](raw/main/notebooks/01-python.ipynb)
 - Video: https://youtu.be/ZqEXBWzI9jA (*Length:* 3:03:44.)
 
 This notebook provides an brief introduction to Jupyter Lab and basic Python aimed towards applications in Data Science.
@@ -42,7 +44,9 @@ Topics include:
 
 ### 2 - NumPy
 
-- Notebook: [02-numpy.ipynb](notebooks/02-numpy.ipynb)
+- Notebook: 02-numpy.ipynb:
+  - [preview](notebooks/02-numpy.ipynb)
+  - [download](raw/main/notebooks/02-numpy.ipynb)
 - Video: https://youtu.be/wf5Ct5UOZFU (*Length:* 1:31:47)
 
 This notebooks introduces computations and manipulation of [NumPy](https://numpy.org/) arrays.
@@ -63,9 +67,11 @@ Topics include:
 
 ### 3 - Data Frames with Pandas
 
-- Notebook: [03-data_frames.ipynb](notebooks/03-data_frames.ipynb)
+- Notebook: 03-data_frames.ipynb
+  - [preview](notebooks/03-data_frames.ipynb)
+  - [download](raw/main/notebooks/03-data_frames.ipynb)
 - Data Sets:
-  - [nba_salaries.csv](notebooks/nba_salaries.csv)
+  - nba_salaries.csv: [preview](notebooks/nba_salaries.csv), [download](raw/main/notebooks/nba_salaries.csv)
 - Video: https://youtu.be/AZpzCXxbn4Q (*Length:* 1:29:11)
 
 This notebook introduces the [pandas](https://pandas.pydata.org/) library for manipulation of data frames.
@@ -83,11 +89,13 @@ Topics include:
 
 ### 4 - Data Visualization
 
-- Notebook: [04-visualization.ipynb](notebooks/04-visualization.ipynb)
+- Notebook: 04-visualization.ipynb
+  - [preview](notebooks/04-visualization.ipynb)
+  - [download](raw/main/notebooks/04-visualization.ipynb)
 - Data Sets:
-  - [actors.csv](notebooks/actors.csv)
-  - [top_movies_2017.csv](notebooks/top_movies_2017.csv)
-  - [usa_ca_2019.csv](notebooks/usa_ca_2019.csv)
+  - actors.csv: [preview](notebooks/actors.csv), [download](raw/main/notebooks/actors.csv)
+  - top_movies_2017.csv: [preview](notebooks/top_movies_2017.csv), [download](raw/main/notebooks/top_movies_2017.csv)
+  - usa_ca_2019.csv: [preview](notebooks/usa_ca_2019.csv), [download](raw/main/notebooks/usa_ca_2019.csv)
 - Video: https://youtu.be/oBZlmyi_d54 (*Length:* 1:46:35)
 
 This notebook introduces the use of [MatPlotLib](https://matplotlib.org/) and pandas to visualize data.
@@ -103,7 +111,9 @@ Topics Include:
 
 ### 5 - Randomness and Probabilities
 
-- Notebook: [05-randomness.ipynb](notebooks/05-randomness.ipynb)
+- Notebook: 05-randomness.ipynb
+  - [preview](notebooks/05-randomness.ipynb)
+  - [download](raw/main/notebooks/05-randomness.ipynb)
 - Video: https://youtu.be/7mdJp3in0mc (1:12:50)
 
 This notebook illustrate the use of Python to simulate random events and compute empirical probabilities.
@@ -122,7 +132,9 @@ Topics Include:
 
 ### 6 - Testing Hypotheses
 
-- Notebook: [06-hypothesis.ipynb](notebooks/06-hypothesis.ipynb)
+- Notebook: 06-hypothesis.ipynb
+  - [preview](notebooks/06-hypothesis.ipynb)
+  - [download](raw/main/notebooks/06-hypothesis.ipynb)
 - Video: https://youtu.be/g8ZoaQASeec (*Length:* 46:09)
 
 This notebooks shows how to use Python tools to check if a hypothesis is consistent with a proposed model.
@@ -140,10 +152,12 @@ Topics Include:
 
 ### 7 - A/B Testing
 
-- Notebook: [07-ab_testing.ipynb](notebooks/07-ab_testing.ipynb)
+- Notebook: 07-ab_testing.ipynb
+  - [preview](notebooks/07-ab_testing.ipynb)
+  - [download](raw/main/notebooks/07-ab_testing.ipynb)
 - Data Sets:
-  - [baby.csv](notebooks/baby.csv)
-  - [bta.csv](notebooks/bta.csv)
+  - baby.csv: [preview](notebooks/baby.csv), [download](raw/main/notebooks/baby.csv)
+  - bta.csv: [preview](notebooks/bta.csv), [download](raw/main/notebooks/bta.csv)
 - Video: https://youtu.be/ibHyLOfdlVc (*Length:* 35:33)
 
 This notebook shows how to use Python to see if the values of a binary categorical attribute has an effect on another attribute.
@@ -158,11 +172,13 @@ Topics include:
 
 ### 8 - Inference
 
-- Notebook: [08-inference.ipynb](notebooks/08-inference.ipynb)
+- Notebook: 08-inference.ipynb
+  - [preview](notebooks/08-inference.ipynb)
+  - [download](raw/main/notebooks/08-inference.ipynb)
 - Data Sets:
-  - [united_summer2015.csv](notebooks/united_summer2015.csv)
-  - [baby.csv](notebooks/baby.csv)
-  - [hodgkins.csv](notebooks/hodgkins.csv)
+  - united_summer2015.csv: [preview](notebooks/united_summer2015.csv), [download](raw/main/notebooks/united_summer2015.csv)
+  - baby.csv: [preview](notebooks/baby.csv), [download](raw/main/notebooks/baby.csv)
+  - hodgkins.csv: [preview](notebooks/hodgkins.csv), [download](raw/main/notebooks/hodgkins.csv)
 - Video: https://youtu.be/YYCAkQzJ4kQ (*Length:* 36:51)
 
 This notebooks shows how a sample can give good approximations of certain statistics and how we can estimate the variation of a statistic from the randomness of sample.
@@ -180,11 +196,13 @@ Topics include:
 
 ### 9 - Linear Correlation and Predictions
 
-- Notebook: [09-predictions.ipynb](notebooks/09-predictions.ipynb)
+- Notebook: 09-predictions.ipynb
+  - [preview](notebooks/09-predictions.ipynb)
+  - [download](raw/main/notebooks/09-predictions.ipynb)
 - Data Sets:
-  - [baby.csv](notebooks/baby.csv)
+  - baby.csv: [preview](notebooks/baby.csv), [download](raw/main/notebooks/baby.csv)
 - Image (used in the notebook):
-  - [slopes.png](notebooks/slopes.png)
+  - slopes.png: [preview](notebooks/slopes.png), [download](raw/main/notebooks/slopes.png)
 - Video: https://youtu.be/wNqBHMFkXgc  (*Length:* 1:11:07)
 
 This notebook introduces the concept of *linear correlation* and explores predictions using linear regression, or by minimizing the root squared mean error of a more general prediction function type.
@@ -203,12 +221,14 @@ Topics include:
 
 ### 10 - Classification with Nearest Neighbors
 
-- Notebook: [10-classification.ipynb](notebooks/10-classification.ipynb)
+- Notebook: 10-classification.ipynb
+  - [preview](notebooks/10-classification.ipynb)
+  - [download](raw/main/notebooks/10-classification.ipynb)
 - Data Sets:
-  - [banknote.csv](notebooks/banknote.csv)
-  - [breast-cancer.csv](notebooks/breast-cancer.csv)
+  - banknote.csv: [preview](notebooks/banknote.csv), [download](raw/main/notebooks/banknote.csv)
+  - breast-cancer.csv: [preview](notebooks/breast-cancer.csv), [download](raw/main/notebooks/breast-cancer.csv)
 - Image (used in the notebook):
-  - [distance.png](notebooks/distance.png)
+  - distance.png: [preview](notebooks/distance.png), [download](raw/main/notebooks/distance.png)
 - Video: https://youtu.be/t8Q-XNdzfQY (*Length:* 40:31)
 
 This notebook shows how to implement and use the *k* Nearest Neighbors classification method.
